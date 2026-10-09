@@ -1,0 +1,15 @@
+{
+  "name": "suppco",
+  "displayName": "SuppCo",
+  "version": "1.0.0",
+  "description": "Research supplements, check product and brand TrustScores, and manage your SuppCo stack and Buying Club cart from Claude.",
+  "author": {
+    "name": "SuppCo",
+    "email": "support@supp.co",
+    "url": "https://supp.co"
+  },
+  "homepage": "https://supp.co",
+  "repository": "https://github.com/SuppleCo/suppco-claude-plugin",
+  "license": "MIT",
+  "keywords": ["supplements", "vitamins", "nutrition", "trustscore", "stack"]
+}

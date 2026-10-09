@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "suppco": {
+      "type": "http",
+      "url": "https://api.supp.co/mcp"
+    }
+  }
+}
