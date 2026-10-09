@@ -11,5 +11,6 @@
   "homepage": "https://supp.co",
   "repository": "https://github.com/SuppleCo/suppco-claude-plugin",
   "license": "MIT",
+  "privacyPolicyUrl": "https://supp.co/about/privacy-policy",
   "keywords": ["supplements", "vitamins", "nutrition", "trustscore", "stack"]
 }
